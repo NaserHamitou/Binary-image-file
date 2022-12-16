@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/cppitertools/test",
+    "files.associations": {
+        "ciso646": "cpp",
+        "ostream": "cpp"
+    }
+}
